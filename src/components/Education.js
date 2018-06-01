@@ -18,7 +18,7 @@ const Education = () => (
             <em className="date">2016-2017</em>
           </p>
           <p>
-            Baccalauréat STMG option systeme d'information et de gestion.
+            Baccalauréat STMG option système d'information et de gestion.
           </p>
         </div>
       </div>

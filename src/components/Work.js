@@ -13,7 +13,7 @@ const Work = () => (
         <div className="twelve columns">
           <h3>Pokedex</h3>
           <p>
-            Pokedex fait en css et Javascript, avec récuperation de données
+            Pokedex fait en CSS et Javascript, avec récuperation de données
             en JSON et AJAX.
           </p>
         </div>
@@ -23,9 +23,9 @@ const Work = () => (
         <div className="twelve columns">
           <h3>Listen my heroes</h3>
           <p>
-            4 images, au clic sur des boutons restent affiché
-            les hommes, et les femmes ou tout les deux, fait et
-            css et Javascript.
+            4 images de personnage différents avec des boutons, au clic sur les boutons restent affichés
+            les hommes, et les femmes ou tout les deux, fait en
+            CSS et Javascript.
           </p>
         </div>
       </div>
@@ -51,7 +51,7 @@ const Work = () => (
         <div className="twelve columns">
           <h3>Twitter</h3>
           <p>
-            Twitter avec de l'ajax pour récupéré les tweets 
+            Twitter avec de l'ajax pour récupérer les tweets 
             dynamiquement tous ça stocké dans une base de données. 
             Fait en PHP, Twig, Javascript et MySQl.
           </p>
