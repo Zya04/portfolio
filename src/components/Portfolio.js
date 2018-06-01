@@ -23,8 +23,8 @@ const Portfolio = () => (
                 <img alt="" src={Coffee} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Coffee</h5>
-                    <p>Illustrration</p>
+                    <h5>todo-list</h5>
+                    <p>Javascript</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -39,8 +39,8 @@ const Portfolio = () => (
                 <img alt="" src={Console} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Console</h5>
-                    <p>Web Development</p>
+                    <h5>listen my heroes</h5>
+                    <p>Javascript</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -55,8 +55,8 @@ const Portfolio = () => (
                 <img alt="" src={Judah} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Judah</h5>
-                    <p>Webdesign</p>
+                    <h5>pokedex</h5>
+                    <p>Javascript</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -71,8 +71,8 @@ const Portfolio = () => (
                 <img alt="" src={IntoTheLight} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Into The Light</h5>
-                    <p>Photography</p>
+                    <h5>Filer</h5>
+                    <p>PHP</p>
                   </div>
                 </div>
                 <div className="link-icon">
@@ -87,8 +87,8 @@ const Portfolio = () => (
                 <img alt="" src={Girl} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>Girl</h5>
-                    <p>Photography</p>
+                    <h5>Twitter</h5>
+                    <p>Twig/PHP</p>
                   </div>
                 </div>
                 <div className="link-icon">

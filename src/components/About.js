@@ -16,7 +16,7 @@ const About = () => (
         </p>
         <div className="row">
           <div className="columns contact-details">
-            <h2>Contact Details</h2>
+            <h2>Contactez moi</h2>
             <p className="address">
               <span>Zya Nassurally</span>
               <br />
@@ -27,6 +27,7 @@ const About = () => (
               <br />
               <span>0771154636</span>
               <br />
+              <span>zya.nassurally@supinternet.fr</span>
             </p>
           </div>
         </div>

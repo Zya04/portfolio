@@ -4,7 +4,7 @@ const Skills = () => (
   <div className="row skill">
     <div className="three columns header-col">
       <h1>
-        <span>Skills</span>
+        <span>Compétences</span>
       </h1>
     </div>
 
