@@ -12,7 +12,13 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>A propos de moi</h2>
         <p>
-          jeune homme de 19 ans étudiant a <span>Sup'Internet</span>. Fan de mangas, de jeux vidéos et de langage informatique.
+          Jeune homme de 19 ans étudiant à <span>Sup'Internet</span>. Fan de mangas, de jeux vidéos et de langage informatique.
+          <br/>
+          Dès la Terminale j 'ai découvert ma passion pour les langages informatiques où on a dû rendre un projet en HTML 5 et CSS3, 
+          c'est en cours de ce projet que j'ai commencé à chercher des écoles spécialisé dans ce domaine.
+          <br />
+          Après avoir fait de nombreuses portes ouverte Sup 'Internet m'a
+          beaucoup plus, par son ambiance, la formation qu 'il propose et les intervenant qui font cours.
         </p>
         <div className="row">
           <div className="columns contact-details">
