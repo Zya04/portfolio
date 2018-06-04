@@ -1167,40 +1167,45 @@ ul#nav li.current a {
   border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  width: 60%;
+.html {
+  width: 85%;
   -moz-animation: photoshop 2s ease;
   -webkit-animation: photoshop 2s ease;
 }
-.wordpress {
-  width: 40%;
-  -moz-animation: photoshop 2s ease;
-  -webkit-animation: photoshop 0.2s ease;
-}
-.illustrator {
-  width: 55%;
+.css {
+  width: 80%;
   -moz-animation: illustrator 2s ease;
   -webkit-animation: illustrator 2s ease;
 }
-.angularJS {
+.php {
+  width: 55%;
+  -moz-animation: photoshop 2s ease;
+  -webkit-animation: photoshop 0.2s ease;
+}
+.javascript {
+  width: 80%;
+  -moz-animation: css 2s ease;
+  -webkit-animation: css 2s ease;
+}
+.sql {
+  width: 75%;
+  -moz-animation: html5 2s ease;
+  -webkit-animation: html5 2s ease;
+}
+.nodejs {
   width: 20%;
+  -moz-animation: photoshop 1s ease;
+  -webkit-animation: photoshop 0.1s ease;
+}
+.angularJS {
+  width: 30%;
   -moz-animation: wordpress 5s ease;
   -webkit-animation: wordpress 0.1s ease;
 }
 .react {
-  width: 20%;
+  width: 25%;
   -moz-animation: wordpress 2s ease;
   -webkit-animation: wordpress 0.1s ease;
-}
-.nodejs {
-  width: 15%;
-  -moz-animation: photoshop 1s ease;
-  -webkit-animation: photoshop 0.1s ease;
-}
-.css {
-  width: 90%;
-  -moz-animation: css 2s ease;
-  -webkit-animation: css 2s ease;
 }
 .jquery {
   width: 60%;
@@ -1212,15 +1217,10 @@ ul#nav li.current a {
   -moz-animation: wordpress 3s ease;
   -webkit-animation: wordpress 0.5s ease;
 }
-.html5 {
-  width: 80%;
-  -moz-animation: html5 2s ease;
-  -webkit-animation: html5 2s ease;
-}
-.jquery {
-  width: 50%;
-  -moz-animation: jquery 2s ease;
-  -webkit-animation: jquery 2s ease;
+.agilite{
+  width: 45%;
+  -moz-animation: wordpress 3s ease;
+  -webkit-animation: wordpress 0.5s ease;
 }
 
 @-moz-keyframes photoshop {

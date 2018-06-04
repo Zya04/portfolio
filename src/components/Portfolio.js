@@ -1,14 +1,12 @@
 import React from "react";
 import { FaPlus, FaTag } from "react-icons/lib/fa";
 
-import Coffee from "../assets/images/portfolio/coffee.png";
-import Console from "../assets/images/portfolio/console.png";
-import Judah from "../assets/images/portfolio/judah.png";
-import IntoTheLight from "../assets/images/portfolio/into-the-light.png";
-import Farmerboy from "../assets/images/portfolio/farmerboy.jpg";
-import Girl from "../assets/images/portfolio/girl.png";
-import Origami from "../assets/images/portfolio/origami.jpg";
-import Retrocam from "../assets/images/portfolio/retrocam.jpg";
+import todoList from "../assets/images/portfolio/todoList.png";
+import heroes from "../assets/images/portfolio/listenMyHeroes.png";
+import pokedex from "../assets/images/portfolio/pokedex.png";
+import filer from "../assets/images/portfolio/filer.png";
+import twitter from "../assets/images/portfolio/twitter.png";
+
 
 const Portfolio = () => (
   <section id="portfolio">
@@ -20,7 +18,7 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-01" title="">
-                <img alt="" src={Coffee} />
+                <img alt="" src={todoList} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>todo-list</h5>
@@ -36,7 +34,7 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-02" title="">
-                <img alt="" src={Console} />
+                <img alt="" src={heroes} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>listen my heroes</h5>
@@ -52,7 +50,7 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-03" title="">
-                <img alt="" src={Judah} />
+                <img alt="" src={pokedex} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>pokedex</h5>
@@ -68,7 +66,7 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-04" title="">
-                <img alt="" src={IntoTheLight} />
+                <img alt="" src={filer} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Filer</h5>
@@ -84,7 +82,7 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="#modal-05" title="">
-                <img alt="" src={Girl} />
+                <img alt="" src={twitter} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>Twitter</h5>
