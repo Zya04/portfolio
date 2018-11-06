@@ -23,7 +23,7 @@ const Work = () => (
         <div className="twelve columns">
           <h3>Listen my heroes</h3>
           <p>
-            4 images de personnage différents avec des boutons, au clic sur les boutons restent affichés
+            4 images de personnages différents avec des boutons, au clic sur les boutons restent affichés
             les hommes, et les femmes ou tout les deux, fait en
             CSS et Javascript.
           </p>
