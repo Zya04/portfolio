@@ -20,10 +20,6 @@ const Skills = () => (
             <em>CSS3/SCSS</em>
           </li>
           <li>
-            <span className="bar-expand php" />
-            <em>PHP</em>
-          </li>
-          <li>
             <span className="bar-expand javascript" />
             <em>Javascript</em>
           </li>
@@ -35,13 +31,17 @@ const Skills = () => (
             <span className="bar-expand sql" />
             <em>MySQL</em>
           </li>
-           <li>
+          <li>
+            <span className="bar-expand github" />
+            <em>Github</em>
+          </li>
+          <li>
             <span className="bar-expand jquery" />
             <em>JQuery</em>
           </li>
-           <li>
-            <span className="bar-expand github" />
-            <em>Github</em>
+          <li>
+            <span className="bar-expand php" />
+            <em>PHP</em>
           </li>
           <li>
             <span className="bar-expand agilite" />

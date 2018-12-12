@@ -1103,7 +1103,8 @@ ul#nav li.current a {
 }
 
 .education,
-.work {
+.work,
+.proProject {
   margin-bottom: 48px;
   padding-bottom: 24px;
   border-bottom: 1px solid #e8e8e8;
@@ -2356,9 +2357,12 @@ footer .social li:first-child {
 
 }
 
-
-
-
+/*.stage{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: 39%;
+}*/
 
 
 

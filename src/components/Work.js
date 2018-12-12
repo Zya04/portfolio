@@ -11,39 +11,28 @@ const Work = () => (
     <div className="nine columns main-col">
       <div className="row item">
         <div className="twelve columns">
-          <h3>Pokedex</h3>
+        <h3>My todo list</h3>
           <p>
-            Pokedex fait en CSS et Javascript, avec récuperation de données
-            en JSON et AJAX.
+           Todo-list avec stockage dans le localstorage pouvant aussi changer la couleur de la police et du fond.
           </p>
         </div>
       </div>
 
       <div className="row item">
         <div className="twelve columns">
-          <h3>Listen my heroes</h3>
+          <h3>New todo-list</h3>
           <p>
-            4 images de personnages différents avec des boutons, au clic sur les boutons restent affichés
-            les hommes, et les femmes ou tout les deux, fait en
-            CSS et Javascript.
+            Nouvelle todo-list qui est réalisé en reactJS.
           </p>
         </div>
       </div>
       <div className="row item">
         <div className="twelve columns">
-          <h3>My todo list</h3>
+          
+          <h3>Pokedex</h3>
           <p>
-            Système de to-do list stocké dans le localStorage 
-            en Javascript.
-          </p>
-        </div>
-      </div>
-      <div className="row item">
-        <div className="twelve columns">
-          <h3>Filer</h3>
-          <p>
-            Système de gestion de fichier avec un système de 
-            connexion fait en PHP et MySQl.
+            Pokedex fait en CSS et Javascript, avec récuperation de données
+            en JSON et AJAX.
           </p>
         </div>
       </div>
