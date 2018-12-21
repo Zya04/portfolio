@@ -16,58 +16,50 @@ const Portfolio = () => (
         <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <img alt="" src={todoList} />
-              <div className="overlay">
-                <div className="portfolio-item-meta">
-                  <h5>todo-list</h5>
-                  <p>Javascript</p>
+              <a href="https://zya04.github.io/my-todo-list/" title="">
+                <img alt="" src={todoList} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>todo-list</h5>
+                    <p>Javascript</p>
+                  </div>
                 </div>
-              </div>
-              <div className="link-icon">
-                <FaPlus />
-              </div>
+                <div className="link-icon">
+                  <FaPlus />
+                </div>
+              </a>
             </div>
           </div>
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <img alt="" src={newTodoList} />
-              <div className="overlay">
-                <div className="portfolio-item-meta">
-                  <h5>New todo-list</h5>
-                  <p>ReactJS</p>
+              <a href="http://zyo-new-todo-list.surge.sh/" title="">
+                <img alt="" src={newTodoList} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>New todo-list</h5>
+                    <p>ReactJS</p>
+                  </div>
                 </div>
-              </div>
-              <div className="link-icon">
-                <FaPlus />
-              </div>
+                <div className="link-icon">
+                  <FaPlus />
+                </div>
+              </a>
             </div>
           </div>
           <div className="columns portfolio-item">
             <div className="item-wrap">
-              <img alt="" src={pokedex} />
-              <div className="overlay">
-                <div className="portfolio-item-meta">
-                  <h5>pokedex</h5>
-                  <p>Javascript</p>
+              <a href="https://zya04.github.io/pokedex/" title="">
+                <img alt="" src={pokedex} />
+                <div className="overlay">
+                  <div className="portfolio-item-meta">
+                    <h5>pokedex</h5>
+                    <p>Javascript</p>
+                  </div>
                 </div>
-              </div>
-              <div className="link-icon">
-                <FaPlus />
-              </div>
-            </div>
-          </div>
-          <div className="columns portfolio-item">
-            <div className="item-wrap">
-              <img alt="" src={twitter} />
-              <div className="overlay">
-                <div className="portfolio-item-meta">
-                  <h5>Twitter</h5>
-                  <p>Twig/PHP</p>
+                <div className="link-icon">
+                  <FaPlus />
                 </div>
-              </div>
-              <div className="link-icon">
-                <FaPlus />
-              </div>
+              </a>
             </div>
           </div>
         </div>
