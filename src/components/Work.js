@@ -29,7 +29,7 @@ const Work = () => (
       <div className="row item">
         <div className="twelve columns">
           
-          <h3>Pokedex></h3>
+          <h3>Pokedex</h3>
           <p>
             Pokedex fait en CSS et Javascript, avec récuperation de données
             en JSON et AJAX.
