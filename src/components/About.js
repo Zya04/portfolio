@@ -12,7 +12,7 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>A propos de moi</h2>
         <p>
-          Jeune étudiant de 19 ans à <span>Sup'Internet</span>. Fan de culture japonaises, de jeux vidéo et de langage informatique.
+          Jeune étudiant de 19 ans à <span>Sup'Internet</span>. Fan de culture japonaises, de sport et de langage informatique.
           <br/>
           Dès la Terminale, j'ai découvert ma passion pour les langages informatiques où on a dû rendre un projet en HTML 5 et CSS3, 
           c'est en cours de ce projet que j'ai commencé à chercher des écoles spécialisé dans ce domaine.
