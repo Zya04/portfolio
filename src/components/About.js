@@ -1,20 +1,20 @@
 import React from "react";
 import { FaCloudDownload } from "react-icons/lib/fa";
 
-import profilePic from "../assets/images/profilePic.jpg";
+import profilePic from "../assets/images/profil-pic.jpg";
 
 const About = () => (
   <section id="about">
     <div className="row">
       <div className="three columns">
-        <img className="profile-pic" src={profilePic} alt="" />
+        <img className="profile-pic" src={profilePic} alt="profile picture" />
       </div>
       <div className="nine columns main-col">
         <h2>A propos de moi</h2>
         <p>
-          Jeune étudiant de 19 ans à <span>Sup'Internet</span>. Fan de culture japonaises, de sport et de langage informatique.
+          Jeune étudiant de 20 ans à <span>Sup'Internet</span>, fan de culture japonaises, de sport et de langage informatique.
           <br/>
-          Dès la Terminale, j'ai découvert ma passion pour les langages informatiques où on a dû rendre un projet en HTML 5 et CSS3, 
+          Dès la Terminale, j'ai découvert ma passion pour les langages informatiques avec un projet de fin d'année en HTML 5 et CSS3, 
           c'est en cours de ce projet que j'ai commencé à chercher des écoles spécialisé dans ce domaine.
           <br />
           Après avoir fait de nombreuses portes ouverte, Sup'Internet m'a
@@ -31,7 +31,7 @@ const About = () => (
                 <br /> 93700 Drancy, France
               </span>
               <br />
-              <span>0771154636</span>
+              <span>07 71 15 46 36</span>
               <br />
               <span>zya.nassurally@supinternet.fr</span>
             </p>

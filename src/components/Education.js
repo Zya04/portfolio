@@ -31,7 +31,6 @@ const Education = () => (
             <span>&bull;</span>
             <em className="date">2017-2020</em>
           </p>
-
           <p>
             Bachelor Manager de projet web et expertise web développement.
           </p>

@@ -17,10 +17,10 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="https://zya04.github.io/my-todo-list/" title="">
-                <img alt="" src={todoList} />
+                <img alt="project todolist" src={todoList} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>todo-list</h5>
+                    <h5>Todo-list</h5>
                     <p>Javascript</p>
                   </div>
                 </div>
@@ -33,7 +33,7 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="http://zyo-new-todo-list.surge.sh/" title="">
-                <img alt="" src={newTodoList} />
+                <img alt="project newtodolist" src={newTodoList} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>New todo-list</h5>
@@ -49,10 +49,10 @@ const Portfolio = () => (
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href="https://zya04.github.io/pokedex/" title="">
-                <img alt="" src={pokedex} />
+                <img alt="project pokedex" src={pokedex} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
-                    <h5>pokedex</h5>
+                    <h5>Pokedex</h5>
                     <p>Javascript</p>
                   </div>
                 </div>

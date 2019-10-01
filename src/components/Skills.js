@@ -20,32 +20,32 @@ const Skills = () => (
             <em>CSS3/SCSS</em>
           </li>
           <li>
-            <span className="bar-expand javascript" />
-            <em>Javascript</em>
-          </li>
-          <li>
             <span className="bar-expand react" />
             <em>React</em>
           </li>
           <li>
-            <span className="bar-expand sql" />
-            <em>MySQL</em>
+            <span className="bar-expand redux" />
+            <em>Redux</em>
+          </li>
+          <li>
+            <span className="bar-expand javascript" />
+            <em>Javascript</em>
           </li>
           <li>
             <span className="bar-expand github" />
             <em>Github</em>
           </li>
           <li>
-            <span className="bar-expand jquery" />
-            <em>JQuery</em>
+            <span className=" bar-expand react-native" />
+            <em>React-native</em>
           </li>
           <li>
-            <span className="bar-expand php" />
-            <em>PHP</em>
+            <span className="bar-expand gestion-de-projet" />
+            <em>Gestion de projet</em>
           </li>
           <li>
             <span className="bar-expand agilite" />
-            <em>agilité</em>
+            <em>Agilité</em>
           </li>
         </ul>
       </div>
